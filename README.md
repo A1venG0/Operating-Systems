@@ -1,2 +1,2 @@
 # Operating-Systems
-Laboratory projects on operating systems during fourth semester at NTUU KPI
+Laboratory projects for Operating Systems course during the fourth semester at NTUU KPI
